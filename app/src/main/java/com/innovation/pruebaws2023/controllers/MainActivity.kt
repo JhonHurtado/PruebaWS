@@ -1,4 +1,4 @@
-package com.innovation.pruebaws2023
+package com.innovation.pruebaws2023.controllers
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
